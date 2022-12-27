@@ -11,3 +11,5 @@ following milestones:
 1. Data Exploration and evaluation of Stationarity.
 2. Modelling and selection of best model.
 3. Prediction of future values for next 12 months.
+
+All the analysis part was carried in R software.
